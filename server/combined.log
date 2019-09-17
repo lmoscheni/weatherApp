@@ -1,0 +1,1066 @@
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:19:10 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:19:14 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:20:30 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:20:38 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:21:00 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:23:00 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:24:01 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:24:06 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:25:27 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:25:31 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:28:22 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:29:02 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:29:29 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:29:56 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:31:56 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:32:11 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:32:22 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Tue, 10 Sep 2019 18:32:36 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"name":"StatusCodeError","statusCode":404,"message":"404 - {\"cod\":\"404\",\"message\":\"city not found\"}","error":{"cod":"404","message":"city not found"},"options":{"uri":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","json":true,"method":"GET","simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":404,"body":{"cod":"404","message":"city not found"},"headers":{"server":"openresty","date":"Wed, 11 Sep 2019 17:36:16 GMT","content-type":"application/json; charset=utf-8","content-length":"40","connection":"close","x-cache-key":"/data/2.5/weather?q=forecast","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":80,"hostname":"api.openweathermap.org","hash":null,"search":"?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","query":"q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","pathname":"/data/2.5/weather","path":"/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae","href":"http://api.openweathermap.org/data/2.5/weather?q=forecast&appid=e60c1ffca730ab1d724f070b1783e4ae"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","service":"user-service"}
+{"cod":"200","message":0.0089,"cnt":40,"list":[{"dt":1568224800,"main":{"temp":307.05,"temp_min":306.5,"temp_max":307.05,"pressure":1016.99,"sea_level":1016.99,"grnd_level":1015.96,"humidity":42,"temp_kf":0.55},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"clouds":{"all":6},"wind":{"speed":7.73,"deg":69.416},"rain":{"3h":0.124},"sys":{"pod":"d"},"dt_txt":"2019-09-11 18:00:00"},{"dt":1568235600,"main":{"temp":306.04,"temp_min":305.624,"temp_max":306.04,"pressure":1014.56,"sea_level":1014.56,"grnd_level":1013.61,"humidity":43,"temp_kf":0.41},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"clouds":{"all":0},"wind":{"speed":7.63,"deg":63.821},"sys":{"pod":"d"},"dt_txt":"2019-09-11 21:00:00"},{"dt":1568246400,"main":{"temp":302.29,"temp_min":302.012,"temp_max":302.29,"pressure":1015.18,"sea_level":1015.18,"grnd_level":1014.44,"humidity":58,"temp_kf":0.28},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"clouds":{"all":0},"wind":{"speed":6.1,"deg":62.62},"sys":{"pod":"n"},"dt_txt":"2019-09-12 00:00:00"},{"dt":1568257200,"main":{"temp":301.14,"temp_min":301,"temp_max":301.14,"pressure":1015.47,"sea_level":1015.47,"grnd_level":1014.63,"humidity":67,"temp_kf":0.14},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02n"}],"clouds":{"all":12},"wind":{"speed":5.17,"deg":53.647},"sys":{"pod":"n"},"dt_txt":"2019-09-12 03:00:00"},{"dt":1568268000,"main":{"temp":300.4,"temp_min":300.4,"temp_max":300.4,"pressure":1014.1,"sea_level":1014.1,"grnd_level":1013.29,"humidity":71,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10n"}],"clouds":{"all":19},"wind":{"speed":4.32,"deg":47.515},"rain":{"3h":0.125},"sys":{"pod":"n"},"dt_txt":"2019-09-12 06:00:00"},{"dt":1568278800,"main":{"temp":299.8,"temp_min":299.8,"temp_max":299.8,"pressure":1012.55,"sea_level":1012.55,"grnd_level":1011.81,"humidity":70,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10n"}],"clouds":{"all":11},"wind":{"speed":3.8,"deg":33.69},"rain":{"3h":0.125},"sys":{"pod":"n"},"dt_txt":"2019-09-12 09:00:00"},{"dt":1568289600,"main":{"temp":300.2,"temp_min":300.2,"temp_max":300.2,"pressure":1013.89,"sea_level":1013.89,"grnd_level":1013.23,"humidity":71,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"clouds":{"all":12},"wind":{"speed":4.57,"deg":42.924},"rain":{"3h":0.125},"sys":{"pod":"d"},"dt_txt":"2019-09-12 12:00:00"},{"dt":1568300400,"main":{"temp":304.288,"temp_min":304.288,"temp_max":304.288,"pressure":1014.25,"sea_level":1014.25,"grnd_level":1013.37,"humidity":54,"temp_kf":0},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"clouds":{"all":50},"wind":{"speed":6.5,"deg":54.443},"sys":{"pod":"d"},"dt_txt":"2019-09-12 15:00:00"},{"dt":1568311200,"main":{"temp":306.8,"temp_min":306.8,"temp_max":306.8,"pressure":1012.97,"sea_level":1012.97,"grnd_level":1011.91,"humidity":44,"temp_kf":0},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"clouds":{"all":26},"wind":{"speed":7.28,"deg":57.183},"sys":{"pod":"d"},"dt_txt":"2019-09-12 18:00:00"},{"dt":1568322000,"main":{"temp":306.061,"temp_min":306.061,"temp_max":306.061,"pressure":1011.01,"sea_level":1011.01,"grnd_level":1010.17,"humidity":45,"temp_kf":0},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"clouds":{"all":2},"wind":{"speed":6.91,"deg":65.309},"sys":{"pod":"d"},"dt_txt":"2019-09-12 21:00:00"},{"dt":1568332800,"main":{"temp":303.039,"temp_min":303.039,"temp_max":303.039,"pressure":1012.31,"sea_level":1012.31,"grnd_level":1011.65,"humidity":56,"temp_kf":0},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"clouds":{"all":1},"wind":{"speed":6.12,"deg":62.292},"sys":{"pod":"n"},"dt_txt":"2019-09-13 00:00:00"},{"dt":1568343600,"main":{"temp":302.139,"temp_min":302.139,"temp_max":302.139,"pressure":1013.12,"sea_level":1013.12,"grnd_level":1012.42,"humidity":65,"temp_kf":0},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"clouds":{"all":7},"wind":{"speed":5.33,"deg":68.912},"sys":{"pod":"n"},"dt_txt":"2019-09-13 03:00:00"},{"dt":1568354400,"main":{"temp":301.522,"temp_min":301.522,"temp_max":301.522,"pressure":1011.85,"sea_level":1011.85,"grnd_level":1011.23,"humidity":68,"temp_kf":0},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02n"}],"clouds":{"all":18},"wind":{"speed":5.2,"deg":66.664},"sys":{"pod":"n"},"dt_txt":"2019-09-13 06:00:00"},{"dt":1568365200,"main":{"temp":300.861,"temp_min":300.861,"temp_max":300.861,"pressure":1011.03,"sea_level":1011.03,"grnd_level":1010.57,"humidity":70,"temp_kf":0},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"clouds":{"all":8},"wind":{"speed":5.07,"deg":59.211},"sys":{"pod":"n"},"dt_txt":"2019-09-13 09:00:00"},{"dt":1568376000,"main":{"temp":301.283,"temp_min":301.283,"temp_max":301.283,"pressure":1012.08,"sea_level":1012.08,"grnd_level":1011.6,"humidity":69,"temp_kf":0},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"clouds":{"all":27},"wind":{"speed":5.03,"deg":52.339},"sys":{"pod":"d"},"dt_txt":"2019-09-13 12:00:00"},{"dt":1568386800,"main":{"temp":304.325,"temp_min":304.325,"temp_max":304.325,"pressure":1012.9,"sea_level":1012.9,"grnd_level":1012.33,"humidity":56,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"clouds":{"all":41},"wind":{"speed":7.6,"deg":64.164},"rain":{"3h":0.25},"sys":{"pod":"d"},"dt_txt":"2019-09-13 15:00:00"},{"dt":1568397600,"main":{"temp":305.797,"temp_min":305.797,"temp_max":305.797,"pressure":1012.06,"sea_level":1012.06,"grnd_level":1011.46,"humidity":51,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"clouds":{"all":63},"wind":{"speed":7.84,"deg":79.791},"rain":{"3h":0.188},"sys":{"pod":"d"},"dt_txt":"2019-09-13 18:00:00"},{"dt":1568408400,"main":{"temp":305.357,"temp_min":305.357,"temp_max":305.357,"pressure":1010.82,"sea_level":1010.82,"grnd_level":1009.99,"humidity":50,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"clouds":{"all":97},"wind":{"speed":7.44,"deg":72.515},"sys":{"pod":"d"},"dt_txt":"2019-09-13 21:00:00"},{"dt":1568419200,"main":{"temp":302.6,"temp_min":302.6,"temp_max":302.6,"pressure":1012.32,"sea_level":1012.32,"grnd_level":1011.31,"humidity":61,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"clouds":{"all":99},"wind":{"speed":7.13,"deg":82.565},"sys":{"pod":"n"},"dt_txt":"2019-09-14 00:00:00"},{"dt":1568430000,"main":{"temp":300.534,"temp_min":300.534,"temp_max":300.534,"pressure":1013.45,"sea_level":1013.45,"grnd_level":1012.96,"humidity":76,"temp_kf":0},"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10n"}],"clouds":{"all":100},"wind":{"speed":8.64,"deg":89.874},"rain":{"3h":4.438},"sys":{"pod":"n"},"dt_txt":"2019-09-14 03:00:00"},{"dt":1568440800,"main":{"temp":300.337,"temp_min":300.337,"temp_max":300.337,"pressure":1012.63,"sea_level":1012.63,"grnd_level":1012.26,"humidity":75,"temp_kf":0},"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10n"}],"clouds":{"all":100},"wind":{"speed":7.67,"deg":99.822},"rain":{"3h":3.937},"sys":{"pod":"n"},"dt_txt":"2019-09-14 06:00:00"},{"dt":1568451600,"main":{"temp":301.069,"temp_min":301.069,"temp_max":301.069,"pressure":1012.11,"sea_level":1012.11,"grnd_level":1011.53,"humidity":72,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10n"}],"clouds":{"all":100},"wind":{"speed":6.57,"deg":104.413},"rain":{"3h":2.812},"sys":{"pod":"n"},"dt_txt":"2019-09-14 09:00:00"},{"dt":1568462400,"main":{"temp":301.234,"temp_min":301.234,"temp_max":301.234,"pressure":1013.21,"sea_level":1013.21,"grnd_level":1012.85,"humidity":70,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"clouds":{"all":100},"wind":{"speed":6.16,"deg":133.896},"rain":{"3h":2.188},"sys":{"pod":"d"},"dt_txt":"2019-09-14 12:00:00"},{"dt":1568473200,"main":{"temp":302.4,"temp_min":302.4,"temp_max":302.4,"pressure":1014.71,"sea_level":1014.71,"grnd_level":1014.43,"humidity":66,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"clouds":{"all":100},"wind":{"speed":5.72,"deg":129.199},"sys":{"pod":"d"},"dt_txt":"2019-09-14 15:00:00"},{"dt":1568484000,"main":{"temp":304.2,"temp_min":304.2,"temp_max":304.2,"pressure":1014.2,"sea_level":1014.2,"grnd_level":1013.53,"humidity":59,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"clouds":{"all":100},"wind":{"speed":6.51,"deg":151.09},"sys":{"pod":"d"},"dt_txt":"2019-09-14 18:00:00"},{"dt":1568494800,"main":{"temp":303,"temp_min":303,"temp_max":303,"pressure":1013.69,"sea_level":1013.69,"grnd_level":1012.96,"humidity":63,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"clouds":{"all":100},"wind":{"speed":5.3,"deg":153.638},"rain":{"3h":0.5},"sys":{"pod":"d"},"dt_txt":"2019-09-14 21:00:00"},{"dt":1568505600,"main":{"temp":302.3,"temp_min":302.3,"temp_max":302.3,"pressure":1014.71,"sea_level":1014.71,"grnd_level":1014.01,"humidity":67,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"clouds":{"all":100},"wind":{"speed":4.29,"deg":146.262},"sys":{"pod":"n"},"dt_txt":"2019-09-15 00:00:00"},{"dt":1568516400,"main":{"temp":301.9,"temp_min":301.9,"temp_max":301.9,"pressure":1015.85,"sea_level":1015.85,"grnd_level":1015.06,"humidity":68,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"clouds":{"all":100},"wind":{"speed":3.77,"deg":135.344},"sys":{"pod":"n"},"dt_txt":"2019-09-15 03:00:00"},{"dt":1568527200,"main":{"temp":301.4,"temp_min":301.4,"temp_max":301.4,"pressure":1015.12,"sea_level":1015.12,"grnd_level":1014.55,"humidity":70,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"clouds":{"all":100},"wind":{"speed":3.44,"deg":125.239},"sys":{"pod":"n"},"dt_txt":"2019-09-15 06:00:00"},{"dt":1568538000,"main":{"temp":301.3,"temp_min":301.3,"temp_max":301.3,"pressure":1014.91,"sea_level":1014.91,"grnd_level":1014.18,"humidity":69,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"clouds":{"all":86},"wind":{"speed":3.12,"deg":124.424},"sys":{"pod":"n"},"dt_txt":"2019-09-15 09:00:00"},{"dt":1568548800,"main":{"temp":301.7,"temp_min":301.7,"temp_max":301.7,"pressure":1015.57,"sea_level":1015.57,"grnd_level":1014.81,"humidity":67,"temp_kf":0},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"clouds":{"all":84},"wind":{"speed":2.9,"deg":125.837},"sys":{"pod":"d"},"dt_txt":"2019-09-15 12:00:00"},{"dt":1568559600,"main":{"temp":305.395,"temp_min":305.395,"temp_max":305.395,"pressure":1016.64,"sea_level":1016.64,"grnd_level":1015.55,"humidity":51,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"clouds":{"all":91},"wind":{"speed":3.89,"deg":129.253},"sys":{"pod":"d"},"dt_txt":"2019-09-15 15:00:00"},{"dt":1568570400,"main":{"temp":306.388,"temp_min":306.388,"temp_max":306.388,"pressure":1015.62,"sea_level":1015.62,"grnd_level":1014.38,"humidity":48,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"clouds":{"all":93},"wind":{"speed":4.25,"deg":119.997},"rain":{"3h":2.313},"sys":{"pod":"d"},"dt_txt":"2019-09-15 18:00:00"},{"dt":1568581200,"main":{"temp":304.888,"temp_min":304.888,"temp_max":304.888,"pressure":1014.81,"sea_level":1014.81,"grnd_level":1013.65,"humidity":54,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"clouds":{"all":100},"wind":{"speed":4.82,"deg":97.764},"rain":{"3h":1.75},"sys":{"pod":"d"},"dt_txt":"2019-09-15 21:00:00"},{"dt":1568592000,"main":{"temp":302.422,"temp_min":302.422,"temp_max":302.422,"pressure":1015.37,"sea_level":1015.37,"grnd_level":1014.46,"humidity":64,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10n"}],"clouds":{"all":100},"wind":{"speed":4.26,"deg":92.504},"rain":{"3h":0.375},"sys":{"pod":"n"},"dt_txt":"2019-09-16 00:00:00"},{"dt":1568602800,"main":{"temp":301.369,"temp_min":301.369,"temp_max":301.369,"pressure":1016.62,"sea_level":1016.62,"grnd_level":1015.83,"humidity":73,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10n"}],"clouds":{"all":61},"wind":{"speed":3.8,"deg":81.633},"rain":{"3h":1.312},"sys":{"pod":"n"},"dt_txt":"2019-09-16 03:00:00"},{"dt":1568613600,"main":{"temp":300.62,"temp_min":300.62,"temp_max":300.62,"pressure":1015.09,"sea_level":1015.09,"grnd_level":1014.35,"humidity":73,"temp_kf":0},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03n"}],"clouds":{"all":46},"wind":{"speed":3.9,"deg":93.616},"rain":{},"sys":{"pod":"n"},"dt_txt":"2019-09-16 06:00:00"},{"dt":1568624400,"main":{"temp":300.019,"temp_min":300.019,"temp_max":300.019,"pressure":1014.95,"sea_level":1014.95,"grnd_level":1014.35,"humidity":73,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"clouds":{"all":100},"wind":{"speed":3.08,"deg":93.425},"sys":{"pod":"n"},"dt_txt":"2019-09-16 09:00:00"},{"dt":1568635200,"main":{"temp":300.808,"temp_min":300.808,"temp_max":300.808,"pressure":1015.67,"sea_level":1015.67,"grnd_level":1015.05,"humidity":74,"temp_kf":0},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"clouds":{"all":65},"wind":{"speed":2.04,"deg":85.636},"sys":{"pod":"d"},"dt_txt":"2019-09-16 12:00:00"},{"dt":1568646000,"main":{"temp":304.5,"temp_min":304.5,"temp_max":304.5,"pressure":1016.82,"sea_level":1016.82,"grnd_level":1015.91,"humidity":57,"temp_kf":0},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"clouds":{"all":50},"wind":{"speed":3.65,"deg":93.694},"rain":{"3h":0.375},"sys":{"pod":"d"},"dt_txt":"2019-09-16 15:00:00"}],"city":{"id":4164138,"name":"Miami","coord":{"lat":25.7743,"lon":-80.1937},"country":"US","population":399457,"timezone":-14400,"sunrise":1568199904,"sunset":1568244613},"level":"info","service":"user-service"}
+{"message":"[ServerError](undefined): 404 - {\"cod\":\"404\",\"message\":\"city not found\"}","level":"error","service":"user-service"}
+{"message":"[ServerError](undefined): 404 - {\"cod\":\"404\",\"message\":\"city not found\"}","level":"error","service":"user-service"}
+{"message":"[ServerError](undefined): 404 - {\"cod\":\"404\",\"message\":\"city not found\"}","level":"error","service":"user-service"}
+{"message":"[ServerError](undefined): 404 - {\"cod\":\"404\",\"message\":\"city not found\"}","level":"error","service":"user-service"}
+{"message":"[ServerError](404): city not found","level":"error","service":"user-service"}
+{"message":"[ServerError](404): city not found","level":"error","service":"user-service"}
+{"message":"[ServerError](404): city not found","level":"error","service":"user-service"}
+{"message":"[CityNotFound](404): no se pudo encontrar el clima de la ciudad solicitada","level":"error","service":"user-service"}
+{"message":"[CityNotFound](404): no se pudo encontrar el clima de la ciudad solicitada","level":"error","service":"user-service"}
+{"message":"[CityNotFound](404): no se pudo encontrar el clima de la ciudad solicitada","level":"error","service":"user-service"}
+{"message":"[CityNotFound](404): no se pudo encontrar el clima de la ciudad solicitada","level":"error","service":"user-service"}
+{"message":"[CityNotFound](404): no se pudo encontrar el clima de la ciudad solicitada","level":"error","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather by city request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"code":404,"message":"No se encuentra el clima para la ciudad solicitada","errorTrace":{"cod":"404","message":"city not found"},"level":"error","service":"user-service"}
+{"code":404,"message":"No se encuentra el clima para la ciudad solicitada","errorTrace":{"cod":"404","message":"city not found"},"level":"error","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"code":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.","errorTrace":{"cod":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info."},"level":"error","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"code":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.","errorTrace":{"cod":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info."},"level":"error","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"code":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.","errorTrace":{"cod":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info."},"level":"error","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"code":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.","errorTrace":{"cod":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info."},"level":"error","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather by city request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"unauthorized app","level":"error","service":"user-service"}
+{"message":"This app is authorized","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"This app is authorized","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
+{"message":"This app is authorized","level":"info","service":"user-service"}
+{"message":"Handling current location request","level":"info","service":"user-service"}
+{"message":"This app is authorized","level":"info","service":"user-service"}
+{"message":"Handling weather for current location request","level":"info","service":"user-service"}
+{"message":"This app is authorized","level":"info","service":"user-service"}
+{"message":"Handling forecast request","level":"info","service":"user-service"}
