@@ -1,6 +1,5 @@
 const rp = require("request-promise");
 const moment = require("moment");
-const log = require("../logger");
 
 const OPEN_WEATHER_API_KEY = process.env.OPEN_WEATHER_CLIENT_API_KEY;
 const BASE_PATH = "http://api.openweathermap.org/data/2.5";
@@ -65,7 +64,6 @@ const getWeatherByCoordinates = (lat, lon) => {
 };
 
 const getForecastByCoordinates = (lat, lon) => {
-  console.log("Get forecast by client");
   return (
     rp
       .get({

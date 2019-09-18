@@ -1,0 +1,33 @@
+{
+  "ip": "200.5.120.85",
+  "continent_code": "SA",
+  "continent_name": "South America",
+  "country_code2": "AR",
+  "country_code3": "ARG",
+  "country_name": "Argentina",
+  "country_capital": "Buenos Aires",
+  "state_prov": "Buenos Aires F.D.",
+  "district": "Monserrat",
+  "city": "Montserrat",
+  "zipcode": "1107",
+  "latitude": "-34.61190",
+  "longitude": "-58.36970",
+  "is_eu": false,
+  "calling_code": "+54",
+  "country_tld": ".ar",
+  "languages": "es-AR,en,it,de,fr,gn",
+  "country_flag": "https://ipgeolocation.io/static/flags/ar_64.png",
+  "geoname_id": "11524952",
+  "isp": "Telefonica de Argentina",
+  "connection_type": "",
+  "organization": "Telefonica de Argentina",
+  "currency": { "code": "ARS", "name": "Argentine Peso", "symbol": "$" },
+  "time_zone": {
+    "name": "America/Argentina/Buenos_Aires",
+    "offset": -3,
+    "current_time": "2019-09-17 17:59:31.602-0300",
+    "current_time_unix": 1568753971.602,
+    "is_dst": false,
+    "dst_savings": 0
+  }
+}

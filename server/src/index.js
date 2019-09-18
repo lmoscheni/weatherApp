@@ -32,4 +32,6 @@ app.use((err, req, res, next) => {
    res.status(err.code).send({ message: err.message });
 });
 
+module.exports = app;
+
 app.listen(3005, () => console.log(`App is running in port 3005`));
